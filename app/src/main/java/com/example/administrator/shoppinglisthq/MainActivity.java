@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    private  String aaa ="hdsgsdghjjlhklhljlhjh";
+    private  String aaa ="hdsgsdhklhljlhjh";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
